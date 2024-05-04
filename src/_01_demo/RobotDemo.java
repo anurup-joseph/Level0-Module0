@@ -7,7 +7,6 @@ package _01_demo;
 
 import org.jointheleague.graphical.robot.Robot;
 import java.awt.Color;
-import java.sql.Driver;
 
 // This recipe draws a square using the Robot
 
@@ -59,8 +58,6 @@ public class RobotDemo {
 		rob.setSpeed(2);
 		rob.move(-75);
 	 }
-
-
 
 	public static void main(String[] args) {
 		demo2();
